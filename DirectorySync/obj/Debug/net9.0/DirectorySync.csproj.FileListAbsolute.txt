@@ -1,0 +1,14 @@
+/home/dominik-zydek/RiderProjects/DirectorySync/DirectorySync/bin/Debug/net9.0/DirectorySync
+/home/dominik-zydek/RiderProjects/DirectorySync/DirectorySync/bin/Debug/net9.0/DirectorySync.deps.json
+/home/dominik-zydek/RiderProjects/DirectorySync/DirectorySync/bin/Debug/net9.0/DirectorySync.runtimeconfig.json
+/home/dominik-zydek/RiderProjects/DirectorySync/DirectorySync/bin/Debug/net9.0/DirectorySync.dll
+/home/dominik-zydek/RiderProjects/DirectorySync/DirectorySync/bin/Debug/net9.0/DirectorySync.pdb
+/home/dominik-zydek/RiderProjects/DirectorySync/DirectorySync/obj/Debug/net9.0/DirectorySync.GeneratedMSBuildEditorConfig.editorconfig
+/home/dominik-zydek/RiderProjects/DirectorySync/DirectorySync/obj/Debug/net9.0/DirectorySync.AssemblyInfoInputs.cache
+/home/dominik-zydek/RiderProjects/DirectorySync/DirectorySync/obj/Debug/net9.0/DirectorySync.AssemblyInfo.cs
+/home/dominik-zydek/RiderProjects/DirectorySync/DirectorySync/obj/Debug/net9.0/DirectorySync.csproj.CoreCompileInputs.cache
+/home/dominik-zydek/RiderProjects/DirectorySync/DirectorySync/obj/Debug/net9.0/DirectorySync.dll
+/home/dominik-zydek/RiderProjects/DirectorySync/DirectorySync/obj/Debug/net9.0/refint/DirectorySync.dll
+/home/dominik-zydek/RiderProjects/DirectorySync/DirectorySync/obj/Debug/net9.0/DirectorySync.pdb
+/home/dominik-zydek/RiderProjects/DirectorySync/DirectorySync/obj/Debug/net9.0/DirectorySync.genruntimeconfig.cache
+/home/dominik-zydek/RiderProjects/DirectorySync/DirectorySync/obj/Debug/net9.0/ref/DirectorySync.dll
